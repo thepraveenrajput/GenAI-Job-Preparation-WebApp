@@ -1,0 +1,10 @@
+npm init -y
+npm i express mongoose dotenv 
+npm i bcryptjs jsonwebtoken cookie-parser
+npm i cors
+npm install @google/genai
+npm i zod
+npm i zod-to-json-schema
+npm i multer
+npm i pdf-parse
+npm i puppeteer

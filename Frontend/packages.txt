@@ -1,0 +1,4 @@
+npm create vite@latest .  Same folder 
+npm i sass
+npm i react-router
+npm i axios
