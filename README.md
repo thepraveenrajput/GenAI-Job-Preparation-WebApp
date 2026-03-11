@@ -38,7 +38,7 @@ Built using **React, Node.js, Express, MongoDB, and Google Generative AI**.
 
 ---
 
-# 📸 Screenshots
+# 📸 Snapshots
 
 ## Interview Strategy Generator
 
