@@ -183,9 +183,10 @@ cd GenAI-Job-Preparation-WebApp
 cd Backend
 npm install
 ```
-Create a .env file in the Backend folder:
+## Environment Variables
+
+### Create a .env file in the Backend folder:
 ```
-PORT=3000
 MONGO_URI=your_mongodb_connection
 GOOGLE_GENAI_API_KEY=your_google_ai_api_key
 JWT_SECRET=your_jwt_secret
@@ -194,7 +195,6 @@ JWT_SECRET=your_jwt_secret
 Run the backend server:
 ```
 npm start
-
 ```
 # Frontend Setup
 ```
@@ -246,12 +246,7 @@ Skill Gaps
 - Security practices
 ```
 
-## Environment Variables
-```
-MONGO_URI=
-GOOGLE_GENAI_API_KEY=
-JWT_SECRET=
-```
+
 ## Future Improvements
 
 - AI mock interview simulator
