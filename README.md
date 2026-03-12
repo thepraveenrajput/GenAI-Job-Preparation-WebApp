@@ -19,6 +19,7 @@ Built using **React, Node.js, Express, MongoDB, and Google Generative AI**.
 ## Frontend
 - React.js
 - Tailwind CSS
+- SCSS
 
 ## Backend
 - Node.js
